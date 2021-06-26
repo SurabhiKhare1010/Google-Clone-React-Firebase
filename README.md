@@ -1,14 +1,9 @@
-Google Clone made with React & deployed with Firebase
+Google clone made with ReactJs and deployed using Firebase.
 
-It is the exact clone and has the primary features just
-like the original Google.
+User can input any search query and will get results exactly like Google.
 
-useContext is used while creating and Google API integration has 
-been applied.
+You can access it with the link mentioned below.
 
-Any Search Query can be used and the user can get the exact desired
-results just like the original Google would provide.
+https://clone-d9ce7.web.app/
 
-https://fir-a5328.web.app/
 
-Anybody can access this Google Clone with the above link
